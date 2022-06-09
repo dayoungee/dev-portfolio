@@ -5,6 +5,8 @@ import About from "./component/about/about";
 import Skill from "./component/skill/Skill";
 import Projects from "./component/project/Projects";
 import Career from "./component/career/Career";
+import Contact from "./component/contact/Contact";
+import Footer from "./component/footer/Footer";
 
 function App() {
   return (
