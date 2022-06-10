@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+#about{
+  height: 600px;
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: white;
+}
+
+.about-title{
+  padding-left : 40%;
+  padding-top: 50px;
+}
+.about-icon{
+  font-size: 2em;
+  color: darkblue;
+}
+
+.about-title-text{
+  font-size: 2.5em;
+  font-family: 'Roboto', sans-serif;
+}
+
+.about-box{
+  padding-top: 50px;
+}
+.about-profile-image{
+  height: 400px;
+  padding-left : 8%;
+  width: 600px;
+}
+
+.about-big-text{
+  font-size: 1.5em;
+  vertical-align: 380px;
+  padding-left: 16%;
+}
+
+.about-small-text-wrapper{
+  height: 400px;
+  width: 700px;
+  padding-left: 45%;
+  position: absolute;
+  top: 700px;
+}
+.about-small-text{
+}
+
+@font-face {
+  font-family: 'SDSamliphopangche_Outline';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

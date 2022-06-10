@@ -1,9 +1,9 @@
 const Career = () => {
 
     return(
-        <>
+        <section>
             Career
-        </>
+        </section>
     )
 }
 
