@@ -14,3 +14,10 @@ export const headerData ={
 export const aboutData ={
     bigText:'도전정신을 가진 개발자'
 }
+
+export const projectData = {
+    {
+        name: '디즈니 공주들'
+
+
+}

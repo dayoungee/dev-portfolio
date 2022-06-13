@@ -21,3 +21,17 @@
   background-color: powderblue;
   box-shadow:5px 5px;
 }
+
+.skill-wrapper:hover{
+  animation: transformBox 0.1s linear forwards;
+}
+
+@keyframes transformBox {
+  from{
+    transform: translate(0,0);
+  }
+  to{
+    transform: translate(0,-10px);
+  }
+  
+}
