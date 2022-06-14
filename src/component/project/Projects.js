@@ -1,10 +1,10 @@
+import Project from "../Project";
+
 const Projects = () => {
 
     return(
-        <section>
-            <div>
-
-            </div>
+        <section id="projects">
+            <Project/>
         </section>
     )
 }

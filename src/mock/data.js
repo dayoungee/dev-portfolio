@@ -16,8 +16,5 @@ export const aboutData ={
 }
 
 export const projectData = {
-    {
-        name: '디즈니 공주들'
-
-
+    name: '디즈니 공주들'
 }
