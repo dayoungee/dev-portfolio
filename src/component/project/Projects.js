@@ -4,7 +4,12 @@ const Projects = () => {
 
     return(
         <section id="projects">
-            <Project/>
+            <div className="projects-title-wrapper">
+               <span className="projects-title">Projects</span>
+            </div>
+            <div className="projects-wrapper">
+                <Project/>
+            </div>
         </section>
     )
 }
